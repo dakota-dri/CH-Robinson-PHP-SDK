@@ -17,6 +17,7 @@ class Encoder
         $this->serializers[] = new Text();
         $this->serializers[] = new Multipart();
         $this->serializers[] = new Form();
+        $this->serializers[] = new Passthrough(); // Register PDF passthrough
     }
 
     public function serializeRequest(HttpRequest $request)
