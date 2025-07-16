@@ -6,6 +6,7 @@ use CHRobinson\Http\Serializer\Form;
 use CHRobinson\Http\Serializer\Json;
 use CHRobinson\Http\Serializer\Multipart;
 use CHRobinson\Http\Serializer\Text;
+use CHRobinson\Http\Serializer\Passthrough;
 
 class Encoder
 {
