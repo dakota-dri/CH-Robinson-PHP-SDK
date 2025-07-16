@@ -1,15 +1,13 @@
 {
     "author": [
         {
-            "name": "MyTruckHub",
-            "email": "admin@truckhub.io",
-            "homepage": "https://mytruckhub.com/",
+            "name": "https://developer.chrobinson.com/",
             "role": "Developer"
         }
     ],
-	"name": "truckhub/ch-robinson-php-sdk",
+	"name": "dakota-dri/ch-robinson-php-sdk",
 	"description": "PHP SDK for C.H. Robinson API",
-	"keywords": ["truckhub", "ch robinson", "sdk"],
+	"keywords": ["dakota-dri", "ch robinson", "sdk"],
 	"type": "library",
     "autoload": {
     	"psr-4": {
